@@ -6,6 +6,9 @@
   "products": [
     { "id": 1, "name": "Product A" },
     { "id": 2, "name": "Product B" }
+  ],
+  "accounts": [
+    {"email": "jovana@example.com", "password": "Nenajana85*", "firstName": "Jovana", "lastName": "Nukic"}
   ]
 }
 

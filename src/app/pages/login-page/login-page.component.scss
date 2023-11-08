@@ -1,0 +1,17 @@
+// Login page styles
+.login-page {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 400px;
+  border: 1px solid #333;
+  border-radius: 20px;
+  padding: 80px 20px;
+}
